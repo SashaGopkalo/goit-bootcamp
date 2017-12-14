@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box {
+    border: 2px solid black;
+    width: 500px;
+    margin:auto;
+    padding:20px 40px;
+}
+.title1{
+    color:blue;
+}
+.text{
+    padding-bottom: 20px;
+}
+
+.tittle{
+color: blue;
+    margin-top: 15px;
+}
+
+.text1{
+    margin-top: 10px;
+}
+.text2{
+    margin-top: 10px;
+}

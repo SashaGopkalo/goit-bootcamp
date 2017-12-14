@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+li{
+    vertical-align: middle;
+}
+ul{
+    list-style-image: url("../soundwave.png");
+    padding-left: 18px;
+    width: 200px;
+    margin: auto;
+}
